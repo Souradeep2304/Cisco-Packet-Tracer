@@ -5,5 +5,5 @@ Cisco Packet Tracer is a cross platform software designed by Cisco Systems that 
 
 <p align="center">
 <img src="./Figures/CISCO.jpg">
-<br>Figure No 1.1: Nerwork Topology
+<br>Figure No 1.1: Network Topology
 </p>
